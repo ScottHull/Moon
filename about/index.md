@@ -25,7 +25,7 @@ See my current research [here]().
 
 ## Employment
 * _Research Assistant_, **Ohio State Mineral Physics Research Group**, Columbus, OH, USA _(Winter 2015 - Present)_
-* _Lead Software Engineer_, **Storm Impact Prediction Model**, Columbus, OH, USA _(2016 - Present)_
+* _Senior Software Engineer_, **Storm Impact Prediction Model**, Columbus, OH, USA _(2016 - Present)_
 * _Field Hand_, **White House Fruit Farm**, Canfield, OH, USA _(2010 - Present)_
 * _Intern_, **Battelle Memorial Institute**, Columbus, OH, USA _(2016 - 2017)_
 * _Intern_, **Shell Undergraduate Research** _(2016 - 2017)_
