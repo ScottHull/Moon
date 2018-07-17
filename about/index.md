@@ -12,7 +12,7 @@ Download a copy of my academic CV [here](), or a copy of my professional resume 
 See my current research [here]().
 
 # Research Interests
-* Computational techniques and _Ab initio_ software engineering in Geosciences.
+* Computational techniques and _ab initio_ software engineering in Geosciences.
 * Compositional differentation/stratification in terrestrial planets.
 * Magma ocean chemical and thermal evolution.
 * Compositional variability and evolution in exoplanets.
