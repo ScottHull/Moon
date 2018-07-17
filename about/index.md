@@ -35,7 +35,7 @@ See my current research [here]().
 * Web platform development _(Django Web Framework, SQLite, PostgreSQL)_
 * API development _(Django REST Framework, Flask)_
 * Front-end web design and data visualization _(Javascript, D3, Jinja2 Templating, CSS, HTML)_
-* Python parallelization for supercomputing environments (multithreading, multiprocessing)
+* Python parallelization for supercomputing environments (multiprocessing)
 * Amazon AWS EC2/Elastic Beanstalk deployment
 * Large-scale scientific data processing and delivery (NumPy, Pandas)
 * Geological field mapping and cross-section construction
