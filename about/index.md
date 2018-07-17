@@ -8,7 +8,7 @@ comments: false
     
 <center>Scott D. Hull is a graduate student in geophysics at The Ohio State University & software engineer with the Storm Impact Prediction team.</center>
 
-Download a copy of my academic CV [here](), or a copy of my professional resume [here]().
+Download a copy of my academic CV [here]('/assets/files/Hull_CV_2018.pdf'), or a copy of my professional resume [here]().
 See my current research [here]().
 
 # Research Interests
