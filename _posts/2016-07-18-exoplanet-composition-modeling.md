@@ -35,6 +35,6 @@ mantle, and basaltic crust to an accurate degree.  By applying this same Earth-b
 simulate the formation of an Earth-like planet around other stars.  By modeling density-versus-depth contrast of the planet's lithosphere versus its silicate mantle, 
 we can quantify the likelihood for Earth-like, subduction-based plate tectonics.
 
-<center><li><img src="{{ /assets/img/posts/exo_basalts.png }}"></img></li></center>
+<center><li><img src="{{ /assets/img/posts/exo_basalts.png }}" /></li></center>
 
 
