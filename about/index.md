@@ -48,7 +48,7 @@ See my current research interests [here](/projects/).
 * [What’s the Universe Made Of?](http://blogs.discovermagazine.com/d-brief/2017/01/06/whats-the-universe-made-of/#.WHASTrYrKqC) _Discvoer Magazine (2017)_
 * [Can Garnet Planets Be Habitable?](https://phys.org/news/2017-01-garnet-planets-habitable.html) _Phys.Org (2017)_
 * [Can Garnet Planets Be Habitable?](https://exoplanets.nasa.gov/news/1402/can-garnet-planets-be-habitable/) _NASA Exoplanet Exploration (2017)_
-* [Between a Rock and a Hard Place: Can Garnet Planets Be Habitable?](https://www.sdss.org/press-releases/between-a-rock-and-a-hard-place-can-garnet-planets-be-habitable/) _Sloan Digital Sky Survey (2017)
+* [Between a Rock and a Hard Place: Can Garnet Planets Be Habitable?](https://www.sdss.org/press-releases/between-a-rock-and-a-hard-place-can-garnet-planets-be-habitable/) _Sloan Digital Sky Survey (2017)_
 * [Could Garnet Planets be Habitable?](https://www.universetoday.com/132724/garnet-planets-habitable/) _Universe Today (2017)_
 * ['Garnet Planets' Would Be Hostile to Life](https://www.space.com/35284-garnet-exoplanets-hostile-for-life.html) _Space.com, (2017)_
 * [Earth-like planets may not be very Earth-like](https://newatlas.com/exosolar-planets-composition/47277/) _New Atlas (2017)_
