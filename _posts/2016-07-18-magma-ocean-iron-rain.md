@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-# The Terrestrial Magma Ocean...The Birth of a Planet!
+# The Terrestrial Magma Ocean...Birth of a Planet!
 Terrestrial planetary accretion is a violent and energetic process.  So energetic, in fact, that most of the new planet should remain molten for millions of years.  
 This length is up for debate due to the large number of unknowns involved with magma oceans (notably the presence and composition of a potential primitive and insulating atmosphere), but 
 the release of gravitational energy through viscous dissipation of stratifying phases and the decay of short-lived isotopes (<sup>26</sup> especially) should keep the planet above silicate soldii for 
