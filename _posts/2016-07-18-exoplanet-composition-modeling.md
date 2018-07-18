@@ -28,13 +28,13 @@ from Venus.
 ## How Do We Link This Process to Exoplanets?
 A "rocky" terrestrial planet (as opposed to gaseous planets like Jupiter) generally reflects the bulk refractory (i.e. high condensation temperature elements) 
 composition of its host star.  This is of no surprise, as a star and its planets mainly form from the same nebular cloud of material.  
+
 In a vastly simplified modeling environment, we assume that the Earth is only made of refractory elements (for the rocky parts of the planet and neglecting oxygen, 
 this is a very acceptable simplifying assumption).  By assuming that the entire Earth initially exists in a melted state, we apply the MELTS algorithm (Ghiorso et al. 1995)
 to solidify the planet under Earth-like pressures, temperatures, and oxygen fugacity.  We are then able to recover the compositions of the Earth's core, silicate 
-mantle, and basaltic crust to an accurate degree.  By applying this same Earth-based model to the compositions of other stars measured via spectroscopy, we can  
-simulate the formation of an Earth-like planet around other stars.  By modeling density-versus-depth contrast of the planet's lithosphere versus its silicate mantle, 
+mantle, and basaltic crust to an accurate degree.  By applying this same Earth-based model to the compositions of other stars measured via spectroscopy, we can simulate the formation of an Earth-like planet around other stars.  By modeling density-versus-depth contrast of the planet's lithosphere versus its silicate mantle, 
 we can quantify the likelihood for Earth-like, subduction-based plate tectonics.
 
-<center><li><img src="{{ /assets/img/posts/exo_basalts.png }}" /></li></center>
+![Exoplanet Basalts](/assets/img/posts/exo_basalts.png "Simulated Exoplanet Basalts from the Adibekyan et al. 2012 stellar survey")
 
 
