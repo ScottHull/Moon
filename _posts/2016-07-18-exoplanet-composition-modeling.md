@@ -1,36 +1,32 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "Terrestrial Exoplanet Composition Modeling"
+date:   2018-07-18
+excerpt: "Computational Modeling of Exoplanet Compositions...Implications for Habitability."
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- exoplanet
+- pocketknife
+- habitable
+- tectonics
+- modeling
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-    
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
-     
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+## What Makes Earth (Geologically) Habitable?
+A broad question, sure enough, and one that I cannot do justice here.  Given that the sample size of observable habitable planets is precisely 1, 
+we are extraordinarily limited in our judgement of life-essentially planetary processes.  Generally, the presence of plate tectonics on Earth 
+gives rise to a planet-wide carbon and water cycle (that is, the subduction-based tectonic regime we find here on Earth).  The partial melting involved in plate tectonics also generates high-standing 
+continental crust which can sequester carbon through weathering.  Therefore, plate tectonics are though to be the dominant 
+climate regulator for terrestrial planets.
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
-      
-## Installation
-* Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
-* Edit `_config.yml` file.
-* Remove sample posts from `_posts` folder and add yours.
-* Edit `index.md` file in `about` folder.
-* Change repo name to `YourUserName.github.io`    
-     
-That's all.
+Plate tectonics on Earth can be boiled down to this: hot oceanic crust forms at ocean ridges, and then sinks back into the mantle after a 
+period of cooling.  These "plates" contain water, carbon, and sediments from their time at the surface, therefore providing a surface-to-interior 
+cycling mechanism that regulates climate and interior composition.  In the broadest sense, this process can separate the habitability of Earth 
+from Venus.
 
-## Preview
+## How Do We Link This Process to Exoplanets?
+
 
 {% capture images %}
 	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png

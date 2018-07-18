@@ -1,15 +1,16 @@
 ---
 layout: page
 title: About
-tags: [about, Jekyll, theme, moon]
-date: 2018-07-16
+tags: [Scott Hull, graduate student, software engineering, Python, research]
+date: 2018-07-18
 comments: false
 ---
     
 <center>Scott D. Hull is a graduate student in geophysics at The Ohio State University & software engineer with the Storm Impact Prediction team.</center>
 
-Download a copy of my academic CV [here](/assets/files/Hull_CV_2018.pdf), or a copy of my professional resume [here]().
-See my current research [here]().
+Download a copy of my academic CV [here](/assets/files/Hull_CV_2018.pdf), or a copy of my professional resume [here](/assets/files/ScottHull_Resume.pdf).
+
+See my current research interests [here](/projects/).
 
 # Research Interests
 * Computational techniques and software engineering for Geosciences.
@@ -34,7 +35,7 @@ See my current research [here]().
 * Self-taught programmer _(advanced Python, intermediate Javascript/CSS/HTML, beginner C++)_
 * Web platform development _(Django Web Framework, SQLite, PostgreSQL)_
 * API development _(Django REST Framework, Flask)_
-* Front-end web design and data visualization _(Javascript, D3, Jinja2 Templating, CSS, HTML)_
+* Front-end web design and data visualization _(Javascript, D3.js, Jinja2 Templating, CSS, HTML)_
 * Python parallelization for supercomputing environments (multiprocessing)
 * Amazon AWS EC2/Elastic Beanstalk deployment
 * Large-scale scientific data processing and delivery (NumPy, Pandas)
