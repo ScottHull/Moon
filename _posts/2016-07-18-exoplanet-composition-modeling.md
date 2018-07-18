@@ -2,7 +2,7 @@
 layout: post
 title:  "Terrestrial Exoplanet Composition Modeling"
 date:   2018-07-18
-excerpt: "Computational Modeling of Exoplanet Compositions...Implications for Habitability."
+excerpt: "Computational Modeling of Exoplanet Compositions...Implications for Habitability!"
 project: true
 tag:
 - exoplanet
