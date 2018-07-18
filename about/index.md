@@ -22,7 +22,7 @@ See my current research interests [here](/projects/).
 ## Education
 * _Master of Science_, **The Ohio State University**, Columbus, OH, USA _(expected Spring 2019)_
 * _Bachelor of Science with Research Distinction_, **The Ohio State University**, Columbus, OH, USA _(2017)_
-* _Honors_, **Canfield High School**, Canfield, OH, USA _(2013)_
+* _Graduation with Honors_, **Canfield High School**, Canfield, OH, USA _(2013)_
 
 ## Employment
 * _Research Assistant_, **Ohio State Mineral Physics Research Group**, Columbus, OH, USA _(Winter 2015 - Present)_
