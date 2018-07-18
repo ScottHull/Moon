@@ -6,7 +6,7 @@ date: 2018-07-18
 comments: false
 ---
     
-<center>Scott D. Hull is a graduate student in geophysics at The Ohio State University & software engineer at _StormImpact.net_.</center>
+<center>Scott D. Hull is a graduate student in geophysics at The Ohio State University & software engineer at <i>StormImpact.net</i>.</center>
 
 Download a copy of my academic CV [here](/assets/files/Hull_CV_2018.pdf), or a copy of my professional resume [here](/assets/files/ScottHull_Resume.pdf).
 
@@ -33,7 +33,7 @@ See my current research interests [here](/projects/).
 
 ## Skills
 * Self-taught programmer _(advanced Python, intermediate Javascript/CSS/HTML, beginner C++)_
-* Web platform development _(Django Web Framework, SQLite, PostgreSQL)_
+* Web platform development _(Django Web Framework, SQLite, PostgreSQL, Redis, Celery)_
 * API development _(Django REST Framework, Flask)_
 * Front-end web design and data visualization _(Javascript, D3.js, Jinja2 Templating, CSS, HTML)_
 * Python parallelization for supercomputing environments (multiprocessing)
