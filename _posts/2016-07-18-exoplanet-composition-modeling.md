@@ -37,4 +37,12 @@ we can quantify the likelihood for Earth-like, subduction-based plate tectonics.
 
 ![Exoplanet Basalts](/assets/img/posts/exo_basalts.png "Simulated Exoplanet Basalts from the Adibekyan et al. 2012 stellar survey")
 
+The image above represents simulated exoplanetary mid-ocean ridge basalts from ~1200 stellar samples from the Adibekyan et al. 2012 stellar survey.  One remarkable result of the study 
+is that sodium, a moderately volatile and incompatible element (that is, concentrated in the crust), provides significant upward buoyancy to planetary lithospheres.  However, due to its more volatile nature, it is 
+not a good reflection of the star-to-planet compositional relationship.  Therefore, studies related to sodium volatility in new planets should be considered in the future.  Below, the impact of doubling or halving sodium 
+abundances in the planets can either make most of the modeled lithospheres float or sink, respectively.
+
+![Exoplanet Sodium Impact](/assets/img/posts/exo_sodium.png "The results of doubling or halving bulk sodium abundances in the simulated lithospheres")
+
+<i>For more information, please see our pre-print paper on this study</i> _[here](https://arxiv.org/pdf/1706.10282.pdf)_.
 
